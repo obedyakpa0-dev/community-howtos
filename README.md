@@ -27,4 +27,4 @@ time building. Welcome. 🚀
 Found something outdated or missing? Open an issue or submit a PR.
 See [how to contribute](./contributing/01-how-to-contribute.mdx).
 
-> Codetopia Community · [codetopia.org](https://community.codetopia.org)
+> Codetopia Community · [community.codetopia.org](https://community.codetopia.org)
