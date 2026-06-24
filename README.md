@@ -14,6 +14,7 @@ This is their gift to the Codetopia Community. 🫶
 - [Rosemary Boahemaa Dwamena](https://portal.community.codetopia.org/@rosieee)
 - [Raymond Selorm Tormeti](https://portal.community.codetopia.org/@raymond_notch)
 - [Ramzy Gbati Konde](https://portal.community.codetopia.org/@ramzyq)
+- [Sheilla Mungai](https://portal.community.codetopia.org/@sheilla)
 
 ## You're seeing this because...
 
